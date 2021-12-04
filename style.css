@@ -13,3 +13,28 @@ li {
 #punaisella {
     color: red;
 }
+
+.first-box-container {
+    width: 200px;
+    height: 100px;
+    position: static;
+    background-color: red;
+  }
+
+  .second-box-container {
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 250px;
+    bottom: 115px;
+    background-color: yellow;
+  }
+
+  .third-box-container {
+    width: 200px;
+    height: 100px;
+    position: relative;
+    left: 500px;
+    bottom: 230px;
+    background-color: green;
+  }
