@@ -17,24 +17,46 @@ li {
 .first-box-container {
     width: 200px;
     height: 100px;
-    position: static;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: green;
+    position: absolute;
     background-color: red;
   }
 
   .second-box-container {
     width: 200px;
     height: 100px;
-    position: relative;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: red;
+    position: absolute;
     left: 250px;
-    bottom: 115px;
     background-color: yellow;
   }
 
   .third-box-container {
     width: 200px;
     height: 100px;
-    position: relative;
+    color: blue;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 40px;
+    border-style: solid;
+    border-width: 10px;
+    border-color: yellow;
+    position: absolute;
     left: 500px;
-    bottom: 230px;
     background-color: green;
   }
